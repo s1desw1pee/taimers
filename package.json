@@ -1,23 +1,23 @@
 {
-    "name": "wt-js-02-color-switcher-timer",
+    "name": "timers",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://s1desw1pee.github.io/wt-js-02-color-switcher-timer",
+    "homepage": "https://s1desw1pee.github.io/timers",
     "scripts": {
       "deploy": "gh-pages -d dist",
       "predeploy": "npm run build",
       "start": "parcel src/*.html",
-      "build": "parcel build src/*.html --public-url /wt-js-02-color-switcher-timer/"
+      "build": "parcel build src/*.html --public-url /timers/"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/s1desw1pee/wt-js-02-color-switcher-timer.git"
+      "url": "git+https://github.com/s1desw1pee/timers.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/s1desw1pee/wt-js-02-color-switcher-timer/issues"
+      "url": "https://github.com/s1desw1pee/timers/issues"
     },
     "dependencies": {
       "flatpickr": "^4.6.13",
