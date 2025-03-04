@@ -1,23 +1,23 @@
 {
-    "name": "timers",
+    "name": "taimers",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://s1desw1pee.github.io/timers",
+    "homepage": "https://s1desw1pee.github.io/taimers",
     "scripts": {
       "deploy": "gh-pages -d dist",
       "predeploy": "npm run build",
       "start": "parcel src/*.html",
-      "build": "parcel build src/*.html --public-url /timers/"
+      "build": "parcel build src/*.html --public-url /taimers/"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/s1desw1pee/timers.git"
+      "url": "git+https://github.com/s1desw1pee/taimers.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/s1desw1pee/timers/issues"
+      "url": "https://github.com/s1desw1pee/taimers/issues"
     },
     "dependencies": {
       "flatpickr": "^4.6.13",
